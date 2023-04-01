@@ -1,0 +1,55 @@
+div {
+    border-radius: 7px;
+    font-family: "Verdana", Sans-serif;
+    margin-bottom: 5px;
+    text-align: center;
+   }
+   
+   .theme {
+    background-color: ghostWhite;
+    height: 300px;
+   }
+   
+   .options {
+    height: 70px;
+    background-color: gainsboro;
+   }
+   
+   button {
+    border: none;
+    border-radius: 5px;
+    font-size: 17px;
+    height: 40px;
+    width: 70px;
+    margin: 15px 5px 5px 0;
+   }
+   
+   img {
+    border-radius: 10px;
+   }
+   
+   .label {
+    font-size: 40px;
+    margin-top: 3px;
+    font-style: inherit;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   }
+
+   .dark {
+    background-color: lightSteelBlue;
+   }
+   
+   .light {
+    background-color: ghostWhite;
+    
+   }
+   
+   .ninja {
+     background-color: darkGray;
+   }
+
+   #icon{
+     height: 250px;
+     width: 250px;
+   }
